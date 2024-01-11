@@ -1,0 +1,31 @@
+
+#navbar {
+    height: 70px;
+    width: 100%;
+    border: solid lightcyan;
+    display:flex;
+    flex: wrap;
+    flex-direction:row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 5px 5px 5px 5px;
+}
+a {
+    text-decoration: none;
+}
+#containar {
+    height: auto;
+    border-left-width: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex: wrap;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    margin: 50px 200px 50px 200px;
+}
+#green {
+    color: lawngreen;
+}
+#blue {
+    color: blue;
+}
